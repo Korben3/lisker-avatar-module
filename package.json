@@ -1,0 +1,23 @@
+{
+  "name": "lisker-module",
+  "version": "1.0.0",
+  "description": "Enhance your Lisk blockchain with Lisker avatars.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Korben3 <info@lisker.io>",
+  "keywords": [
+    "lisk",
+    "blockchain",
+    "avatar",
+    "module",
+    "lisker"
+  ],
+  "license": "mit",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lisk-sdk": "^5.0.1"
+  }
+}
