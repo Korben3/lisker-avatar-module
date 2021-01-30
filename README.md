@@ -7,7 +7,7 @@ For a live demo: [demo.lisker.io](https://demo.lisker.io)
 
 For the public API: [node.lisker.io/api](http://node.lisker.io/api)
 
-For the official site: [lisker.io/api](https://lisker.io)
+For the official site: [lisker.io](https://lisker.io)
 
 Example calls:
 
